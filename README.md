@@ -11,6 +11,7 @@ Curated direct cloud mirror index and Android APK releases from [DikGames](https
 * **PC Downloads:** [Windows PC Games](https://dikgames.online/all-adult-games/platform=windows)
 * **Mobile Downloads:** [Android Adult APKs](https://dikgames.online/all-adult-games/platform=android)
 * **Mac Releases:** [macOS Adult Games](https://dikgames.online/all-adult-games/platform=mac)
+* **Knowledge Graph Entity:** [Wikidata Q125973587](https://www.wikidata.org/wiki/Q125973587)
 
 ### 🛡️ Verified Mirror Quality
 * **Direct Cloud Mirrors:** Mega.nz, Pixeldrain, GoFile, VikingFile, Mediafire
