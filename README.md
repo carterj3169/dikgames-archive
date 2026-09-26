@@ -7,6 +7,7 @@ Curated direct cloud mirror index and Android APK releases from [DikGames](https
 
 ### 🔗 Official Directory Links
 * **Portal Homepage:** [DikGames (Official)](https://dikgames.online/)
+* **Reddit Subreddit:** [r/dikgamesonline](https://www.reddit.com/r/dikgamesonline/)
 * **Gaming Community Profile:** [DikGames on itch.io](https://dikgamesonline.itch.io/)
 * **All Games Library:** [DikGames Catalog](https://dikgames.online/all-adult-games/)
 * **PC Downloads:** [Windows PC Games](https://dikgames.online/all-adult-games/platform=windows)
