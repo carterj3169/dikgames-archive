@@ -5,6 +5,7 @@
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q125973587-006699?style=flat-square&logo=wikidata)](https://www.wikidata.org/wiki/Q125973587)
 [![GitLab](https://img.shields.io/badge/GitLab-dikgames-orange?style=flat-square&logo=gitlab)](https://gitlab.com/dikgames/dikgames-archive)
 [![itch.io](https://img.shields.io/badge/itch.io-dikgamesonline-fa5c5c?style=flat-square&logo=itch.io)](https://dikgamesonline.itch.io/)
+[![Academia.edu](https://img.shields.io/badge/Academia.edu-.EDU_Paper-brown?style=flat-square)](https://independent.academia.edu/JulianaPauline)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5056--1615-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5056-1615)
 [![Harvard Dataverse](https://img.shields.io/badge/Harvard_Dataverse-.EDU_DOI-A51C30?style=flat-square)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MKB1K2)
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/dikgames/visual-novels-metadata-2026)
