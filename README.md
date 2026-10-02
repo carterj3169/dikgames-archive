@@ -5,6 +5,7 @@
 [![NPM](https://img.shields.io/npm/v/dikgames?color=cb3837&style=flat-square&logo=npm)](https://www.npmjs.com/package/dikgames)
 [![Harvard Dataverse](https://img.shields.io/badge/Harvard_Dataverse-.EDU_DOI-A51C30?style=flat-square)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MKB1K2)
 [![OSF DOI](https://img.shields.io/badge/OSF_DOI-10.17605%2FOSF.IO%2FHUPEM-blue?style=flat-square&logo=open-science-framework)](https://doi.org/10.17605/OSF.IO/HUPEM)
+[![Software Heritage](https://img.shields.io/badge/SWH-UNESCO_Archived-007799?style=flat-square)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/carterj3169/dikgames-archive)
 [![Academia.edu](https://img.shields.io/badge/Academia.edu-.EDU_Paper-brown?style=flat-square)](https://independent.academia.edu/JulianaPauline)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5056--1615-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5056-1615)
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/dikgames/visual-novels-metadata-2026)
@@ -38,6 +39,7 @@ DikGames is an uncensored adult visual novels archive and gaming database featur
 ## 📊 Open Academic Research Datasets & Institutional Identifiers
 * **Harvard University Dataverse (.EDU DOI):** [doi:10.7910/DVN/MKB1K2](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MKB1K2)
 * **Open Science Framework (NSF .GOV Funded DOI):** [doi:10.17605/OSF.IO/HUPEM](https://osf.io/hupem)
+* **Software Heritage (UNESCO / Inria Permanent Archive):** [archive.softwareheritage.org](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/carterj3169/dikgames-archive)
 * **Academia.edu (.EDU Publication):** [Global Visual Novels Metadata Index (2020-2026)](https://www.academia.edu/176667659/Global_Visual_Novels_and_Interactive_Fiction_Metadata_Index_2020_2026_Longitudinal_Technical_Architecture_Version_Migration_and_Engine_Adoption)
 * **Academia.edu (.EDU Profile):** [Juliana Pauline Author Profile](https://independent.academia.edu/JulianaPauline)
 * **DataCite Commons Registry:** [doi.org/10.7910/dvn/mkb1k2](https://commons.datacite.org/doi.org/10.7910/dvn/mkb1k2)
