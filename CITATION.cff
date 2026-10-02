@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you utilize this dataset in academic publications, digital humanities research, or machine learning evaluations, please cite it as below."
+authors:
+  - family-names: "Pauline"
+    given-names: "Juliana"
+    orcid: "https://orcid.org/0009-0003-5056-1615"
+    affiliation: "DikGames Digital Preservation Archive"
+  - name: "DikGames Research & Preservation Group"
+    website: "https://dikgames.online"
+title: "Global Visual Novels & Interactive Fiction Metadata Index (2020–2026)"
+version: 2026.10.1
+date-released: 2026-10-01
+url: "https://dikgames.online"
+repository: "https://huggingface.co/datasets/dikgames/visual-novels-metadata"
+repository-code: "https://github.com/carterj3169/dikgames-archive"
+abstract: "A longitudinal open-access metadata index tracking the technical architecture, version lifecycles, game engines, and cross-platform distribution patterns of independent interactive fiction and narrative video games."
+keywords:
+  - "visual-novels"
+  - "interactive-fiction"
+  - "renpy"
+  - "unity"
+  - "digital-humanities"
+  - "game-engines"
+  - "cross-platform"
+  - "metadata"
+license: "CC-BY-4.0"
