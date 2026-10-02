@@ -5,6 +5,7 @@
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q125973587-006699?style=flat-square&logo=wikidata)](https://www.wikidata.org/wiki/Q125973587)
 [![GitLab](https://img.shields.io/badge/GitLab-dikgames-orange?style=flat-square&logo=gitlab)](https://gitlab.com/dikgames/dikgames-archive)
 [![itch.io](https://img.shields.io/badge/itch.io-dikgamesonline-fa5c5c?style=flat-square&logo=itch.io)](https://dikgamesonline.itch.io/)
+[![Harvard Dataverse](https://img.shields.io/badge/Harvard_Dataverse-.EDU_DOI-A51C30?style=flat-square)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MKB1K2)
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/dikgames/visual-novels-metadata-2026)
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook_EDA-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/code/dikgames/visual-novels-interactive-fiction-eda-engine/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97_Hugging_Face-Dataset-yellow?style=flat-square)](https://huggingface.co/datasets/dikgames/visual-novels-metadata)
@@ -46,6 +47,7 @@ npm install dikgames
 
 
 ## 📊 Open Academic Research Datasets & Machine Feeds
+* **Harvard University .EDU Dataset:** [doi:10.7910/DVN/MKB1K2](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MKB1K2)
 * **Kaggle Research Dataset:** [dikgames/visual-novels-metadata-2026](https://www.kaggle.com/datasets/dikgames/visual-novels-metadata-2026)
 * **Kaggle Analysis Notebook:** [Interactive Fiction EDA & Engine Analysis](https://www.kaggle.com/code/dikgames/visual-novels-interactive-fiction-eda-engine/)
 * **Hugging Face Hub:** [dikgames/visual-novels-metadata](https://huggingface.co/datasets/dikgames/visual-novels-metadata)
