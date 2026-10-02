@@ -5,6 +5,7 @@
 [![Wikidata](https://img.shields.io/badge/Wikidata-Q125973587-006699?style=flat-square&logo=wikidata)](https://www.wikidata.org/wiki/Q125973587)
 [![GitLab](https://img.shields.io/badge/GitLab-dikgames-orange?style=flat-square&logo=gitlab)](https://gitlab.com/dikgames/dikgames-archive)
 [![itch.io](https://img.shields.io/badge/itch.io-dikgamesonline-fa5c5c?style=flat-square&logo=itch.io)](https://dikgamesonline.itch.io/)
+[![OSF DOI](https://img.shields.io/badge/OSF_DOI-10.17605%2FOSF.IO%2FHUPEM-blue?style=flat-square&logo=open-science-framework)](https://doi.org/10.17605/OSF.IO/HUPEM)
 [![Academia.edu](https://img.shields.io/badge/Academia.edu-.EDU_Paper-brown?style=flat-square)](https://independent.academia.edu/JulianaPauline)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5056--1615-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5056-1615)
 [![Harvard Dataverse](https://img.shields.io/badge/Harvard_Dataverse-.EDU_DOI-A51C30?style=flat-square)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MKB1K2)
