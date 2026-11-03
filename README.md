@@ -22,6 +22,29 @@ DikGames is an uncensored adult visual novels archive and gaming database featur
 
 ---
 
+
+## 🎮 Comprehensive Games Catalog (1,280+ Titles)
+
+Explore the full alphabetical directory of preserved titles:
+👉 **[View Complete Games Index & Direct Mirrors Directory (GAMES_INDEX.md)](./GAMES_INDEX.md)**
+
+### 🌟 Featured Flagship Releases & Anthologies
+- **[Being a DIK (Official Anthology)](https://dikgames.online/c/dikgames/)** — Complete Seasons 1, 2, 3 + 4K Remaster + Android APK
+- **[Summertime Saga](https://dikgames.online/games/summertime-saga/)** — Direct cloud mirrors, cookie saves, Android port
+- **[Wild Life](https://dikgames.online/games/wild-life/)** — Latest test builds & direct mirrors
+- **[Princess & Conquest](https://dikgames.online/games/princess-conquest/)** — High-speed download mirrors & updates
+- **[Milfy City](https://dikgames.online/games/milfy-city/)** — Complete walkthroughs & multi-host mirrors
+- **[FreshWomen](https://dikgames.online/games/freshwomen/)** — Season 1 & 2 latest episodic builds
+- **[College Kings](https://dikgames.online/games/college-kings/)** — Full franchise chapters & Android APKs
+- **[Leap of Faith](https://dikgames.online/games/leap-of-faith/)** — High-speed direct downloads
+- **[Acting Lessons](https://dikgames.online/games/acting-lessons/)** — Uncensored remastered version
+- **[Lust Academy](https://dikgames.online/games/lust-academy/)** — Seasons 1, 2 & 3 complete editions
+- **[Browse All 1,280+ Games on DikGames](https://dikgames.online/all-adult-games/)**
+- **[Explore Complete A-Z Directory Matrix](https://dikgames.online/site-directory/)**
+- **[Browse All Tags & Categories](https://dikgames.online/all-tags/)**
+
+---
+
 ## 🔗 Official Ecosystem & Network
 - **Official Website:** [https://dikgames.online](https://dikgames.online)
 - **Flagship Curatorial Anthology:** [Being a DIK Official Anthology](https://dikgames.online/c/dikgames/)
