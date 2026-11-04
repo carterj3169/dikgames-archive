@@ -1,7 +1,7 @@
 # 🎮 DikGames Complete Archival Index & Direct Cloud Mirror Catalog
 
 [![Official Portal](https://img.shields.io/badge/Official_Portal-dikgames.online-8b5cf6?style=flat-square)](https://dikgames.online)
-[![Total Games](https://img.shields.io/badge/Preserved_Games-1288+-ec4899?style=flat-square)](https://dikgames.online/all-adult-games/)
+[![Total Games](https://img.shields.io/badge/Preserved_Games-1301+-ec4899?style=flat-square)](https://dikgames.online/all-adult-games/)
 [![License: Open Research Metadata](https://img.shields.io/badge/Metadata_License-CC_BY_4.0-007799?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
 This index serves as the official machine-readable and crawler-accessible cross-reference catalog for the [DikGames](https://dikgames.online/) preservation archive. All listed visual novels and interactive fiction titles are preserved with verified multi-cloud mirrors (Mega, Pixeldrain, GoFile, VikingFile), Android APK conversions, and cheat saves.
@@ -327,7 +327,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Extra Credit](https://dikgames.online/games/extra-credit/) `[0.4.7]` — [Play on DikGames](https://dikgames.online/games/extra-credit/)
 - [Extracurricular](https://dikgames.online/games/extracurricular/) `[Demo 0.2]` — [Play on DikGames](https://dikgames.online/games/extracurricular/)
 
-### F (82 Games)
+### F (84 Games)
 
 - [Fairy and Transmuter](https://dikgames.online/games/fairy-and-transmuter/) `[0.0.2]` — [Play on DikGames](https://dikgames.online/games/fairy-and-transmuter/)
 - [Fall of Haven](https://dikgames.online/games/fall-of-haven/) `[Alpha Demo 1.3.3]` — [Play on DikGames](https://dikgames.online/games/fall-of-haven/)
@@ -337,6 +337,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Fallout: Colorado Vault 69](https://dikgames.online/games/fallout-colorado-vault-69/) `[4.5.1]` — [Play on DikGames](https://dikgames.online/games/fallout-colorado-vault-69/)
 - [Family Trouble](https://dikgames.online/games/family-trouble/) `[0.9.92]` — [Play on DikGames](https://dikgames.online/games/family-trouble/)
 - [Family Vacation](https://dikgames.online/games/family-vacation/) `[Chapter Ch.16 0.16.15.23]` — [Play on DikGames](https://dikgames.online/games/family-vacation/)
+- [Family, Friends and Strangers](https://dikgames.online/games/family-friends-and-strangers/) `[v2026.06]` — [Play on DikGames](https://dikgames.online/games/family-friends-and-strangers/)
 - [Famished, Hazel's Journey](https://dikgames.online/games/famished-hazels-journey/) `[29]` — [Play on DikGames](https://dikgames.online/games/famished-hazels-journey/)
 - [Fantasy Brothel Manager](https://dikgames.online/games/fantasy-brothel-manager/) `[0.4.0f1]` — [Play on DikGames](https://dikgames.online/games/fantasy-brothel-manager/)
 - [Fantasy Date](https://dikgames.online/games/fantasy-date/) `[v0.61]` — [Play on DikGames](https://dikgames.online/games/fantasy-date/)
@@ -356,6 +357,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Festival "Gold Fox"](https://dikgames.online/games/festival-gold-fox/) `[1.2]` — [Play on DikGames](https://dikgames.online/games/festival-gold-fox/)
 - [Fetiphone](https://dikgames.online/games/fetiphone/) `[1.4]` — [Play on DikGames](https://dikgames.online/games/fetiphone/)
 - [Fetish Locator: S&M Studio](https://dikgames.online/games/fetish-locator-sm-studio/) `[Season 1 - 1.0.26 + Season 2 - 1.4.7]` — [Play on DikGames](https://dikgames.online/games/fetish-locator-sm-studio/)
+- [FF&S: Scenes That Didn't Happen](https://dikgames.online/games/ffs-scenes-that-didnt-happen/) `[v2026.10]` — [Play on DikGames](https://dikgames.online/games/ffs-scenes-that-didnt-happen/)
 - [Fiery Passions](https://dikgames.online/games/fiery-passions/) `[0.4.0 Public]` — [Play on DikGames](https://dikgames.online/games/fiery-passions/)
 - [Fight'n Lust](https://dikgames.online/games/fightn-lust/) `[August]` — [Play on DikGames](https://dikgames.online/games/fightn-lust/)
 - [Fighting for Their Fur](https://dikgames.online/games/fighting-for-their-fur/) `[0.15]` — [Play on DikGames](https://dikgames.online/games/fighting-for-their-fur/)
@@ -454,7 +456,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Guest House](https://dikgames.online/games/guest-house/) `[0.3.9]` — [Play on DikGames](https://dikgames.online/games/guest-house/)
 - [Guild Jatoba](https://dikgames.online/games/guild-jatoba/) `[0.0.1]` — [Play on DikGames](https://dikgames.online/games/guild-jatoba/)
 
-### H (76 Games)
+### H (77 Games)
 
 - [Hack & Tease](https://dikgames.online/games/hack-tease/) `[0.4.0.55]` — [Play on DikGames](https://dikgames.online/games/hack-tease/)
 - [Hail Dicktator](https://dikgames.online/games/hail-dicktator/) `[0.97.1]` — [Play on DikGames](https://dikgames.online/games/hail-dicktator/)
@@ -470,6 +472,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Harem of Ankhutep](https://dikgames.online/games/harem-of-ankhutep/) `[0.331]` — [Play on DikGames](https://dikgames.online/games/harem-of-ankhutep/)
 - [Harem of Valerius](https://dikgames.online/games/harem-of-valerius/) `[2.0.0.1 EA]` — [Play on DikGames](https://dikgames.online/games/harem-of-valerius/)
 - [Harem Squad Agent Girl Trainer](https://dikgames.online/games/harem-squad-agent-girl-trainer/) `[0.3]` — [Play on DikGames](https://dikgames.online/games/harem-squad-agent-girl-trainer/)
+- [Harem Topia](https://dikgames.online/games/harem-topia/) `[v0.30]` — [Play on DikGames](https://dikgames.online/games/harem-topia/)
 - [Haremwatch](https://dikgames.online/games/haremwatch/) `[0.1.05a]` — [Play on DikGames](https://dikgames.online/games/haremwatch/)
 - [Having a HARD Time](https://dikgames.online/games/having-a-hard-time/) `[Episode 5.2]` — [Play on DikGames](https://dikgames.online/games/having-a-hard-time/)
 - [Hazelnut Latte](https://dikgames.online/games/hazelnut-latte/) `[0.16.0.1 Unity]` — [Play on DikGames](https://dikgames.online/games/hazelnut-latte/)
@@ -562,12 +565,12 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Intruder's Tale](https://dikgames.online/games/intruders-tale/) `[0.18]` — [Play on DikGames](https://dikgames.online/games/intruders-tale/)
 - [Irreverent Heresy II](https://dikgames.online/games/irreverent-heresy-ii/) `[Chapter 1 - Episode 3 - Remake]` — [Play on DikGames](https://dikgames.online/games/irreverent-heresy-ii/)
 - [Is my girlfriend or my Bully??](https://dikgames.online/games/is-my-girlfriend-or-my-bully/) `[0.1]` — [Play on DikGames](https://dikgames.online/games/is-my-girlfriend-or-my-bully/)
-- [Isekai Awakening](https://dikgames.online/games/isekai-awakening/) `[2.06]` — [Play on DikGames](https://dikgames.online/games/isekai-awakening/)
+- [Isekai Awakening](https://dikgames.online/games/isekai-awakening/) `[v2.08.5]` — [Play on DikGames](https://dikgames.online/games/isekai-awakening/)
 - [Isekai Brothel](https://dikgames.online/games/isekai-brothel/) `[0.92]` — [Play on DikGames](https://dikgames.online/games/isekai-brothel/)
 - [Island NTR Survival SS](https://dikgames.online/games/island-ntr-survival-ss/) `[Final]` — [Play on DikGames](https://dikgames.online/games/island-ntr-survival-ss/)
 - [Island of Rebirth~NTR and Love~](https://dikgames.online/games/island-of-rebirthntr-and-love/) `[Steam]` — [Play on DikGames](https://dikgames.online/games/island-of-rebirthntr-and-love/)
 
-### J (12 Games)
+### J (13 Games)
 
 - [Jack Hunter](https://dikgames.online/games/jack-hunter/) `[v0.5]` — [Play on DikGames](https://dikgames.online/games/jack-hunter/)
 - [Jackie Chun](https://dikgames.online/games/jackie-chun/) `[0.5]` — [Play on DikGames](https://dikgames.online/games/jackie-chun/)
@@ -576,6 +579,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Jinxed Mark](https://dikgames.online/games/jinxed-mark/) `[0.02.1]` — [Play on DikGames](https://dikgames.online/games/jinxed-mark/)
 - [JK - Pure Maiden Education Curriculum](https://dikgames.online/games/jk-pure-maiden-education-curriculum/) `[1]` — [Play on DikGames](https://dikgames.online/games/jk-pure-maiden-education-curriculum/)
 - [JL: Next Generation](https://dikgames.online/games/jl-next-generation/) `[0.18 Public]` — [Play on DikGames](https://dikgames.online/games/jl-next-generation/)
+- [Jujutsu Trainer](https://dikgames.online/games/jujutsu-trainer/) `[v0.31.1]` — [Play on DikGames](https://dikgames.online/games/jujutsu-trainer/)
 - [Just a Fucking Game](https://dikgames.online/games/just-a-fucking-game/) `[1.11 (1.16 for the Patreon version)]` — [Play on DikGames](https://dikgames.online/games/just-a-fucking-game/)
 - [Just an NPC](https://dikgames.online/games/just-an-npc/) `[0.08]` — [Play on DikGames](https://dikgames.online/games/just-an-npc/)
 - [Just Bros](https://dikgames.online/games/just-bros/) `[2.34]` — [Play on DikGames](https://dikgames.online/games/just-bros/)
@@ -606,7 +610,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Koromogawari](https://dikgames.online/games/koromogawari/) `[1.01]` — [Play on DikGames](https://dikgames.online/games/koromogawari/)
 - [Kunoichi Tactics](https://dikgames.online/games/kunoichi-tactics/) `[0.3.0]` — [Play on DikGames](https://dikgames.online/games/kunoichi-tactics/)
 
-### L (84 Games)
+### L (85 Games)
 
 - [La Vitalis: Immortal Loss](https://dikgames.online/games/la-vitalis-immortal-loss/) `[Beta 0.60.0]` — [Play on DikGames](https://dikgames.online/games/la-vitalis-immortal-loss/)
 - [Lady Knight: The Succubus Labyrinth](https://dikgames.online/games/lady-knight-the-succubus-labyrinth/) `[1]` — [Play on DikGames](https://dikgames.online/games/lady-knight-the-succubus-labyrinth/)
@@ -669,7 +673,8 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Lust and Desire](https://dikgames.online/games/lust-and-desire/) `[0.1.1]` — [Play on DikGames](https://dikgames.online/games/lust-and-desire/)
 - [Lust Animals Dimensions](https://dikgames.online/games/lust-animals-dimensions/) `[1.01]` — [Play on DikGames](https://dikgames.online/games/lust-animals-dimensions/)
 - [Lust Brawl](https://dikgames.online/games/lust-brawl/) `[0.6]` — [Play on DikGames](https://dikgames.online/games/lust-brawl/)
-- [Lust Days: 30 Nights](https://dikgames.online/games/lust-days-30-nights/) `[0.1 Public]` — [Play on DikGames](https://dikgames.online/games/lust-days-30-nights/)
+- [LUST CURSE](https://dikgames.online/games/lust-curse/) `[1]` — [Play on DikGames](https://dikgames.online/games/lust-curse/)
+- [Lust Days: 30 Nights](https://dikgames.online/games/lust-days-30-nights/) `[v0.4 Public]` — [Play on DikGames](https://dikgames.online/games/lust-days-30-nights/)
 - [Lust for Life](https://dikgames.online/games/lust-for-life/) `[0.74]` — [Play on DikGames](https://dikgames.online/games/lust-for-life/)
 - [Lust Harem](https://dikgames.online/games/lust-harem/) `[0.85.0D]` — [Play on DikGames](https://dikgames.online/games/lust-harem/)
 - [Lust in Suburbs](https://dikgames.online/games/lust-in-suburbs/) `[0.1.06]` — [Play on DikGames](https://dikgames.online/games/lust-in-suburbs/)
@@ -939,7 +944,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 
 - [Quantum Love Theory](https://dikgames.online/games/quantum-love-theory/) `[0.1.13]` — [Play on DikGames](https://dikgames.online/games/quantum-love-theory/)
 
-### R (43 Games)
+### R (45 Games)
 
 - [Rai & Kai's Awakening](https://dikgames.online/games/rai-kais-awakening/) `[Chapter 2 - 2.7]` — [Play on DikGames](https://dikgames.online/games/rai-kais-awakening/)
 - [Raise Yuri](https://dikgames.online/games/raise-yuri/) `[0.8]` — [Play on DikGames](https://dikgames.online/games/raise-yuri/)
@@ -947,6 +952,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [ReBorn Summoner](https://dikgames.online/games/reborn-summoner/) `[0.8.5]` — [Play on DikGames](https://dikgames.online/games/reborn-summoner/)
 - [Rebounding Life](https://dikgames.online/games/rebounding-life/) `[Season 2 - Episode 1]` — [Play on DikGames](https://dikgames.online/games/rebounding-life/)
 - [Red Hood: Dark Desire](https://dikgames.online/games/red-hood-dark-desire/) `[0.38]` — [Play on DikGames](https://dikgames.online/games/red-hood-dark-desire/)
+- [Rediscovering Us](https://dikgames.online/games/rediscovering-us/) `[v0.8]` — [Play on DikGames](https://dikgames.online/games/rediscovering-us/)
 - [Redlight Protocol: New Trinity](https://dikgames.online/games/redlight-protocol-new-trinity/) `[0.0.1]` — [Play on DikGames](https://dikgames.online/games/redlight-protocol-new-trinity/)
 - [Redline protocol](https://dikgames.online/games/redline-protocol/) `[0.2 Alpha]` — [Play on DikGames](https://dikgames.online/games/redline-protocol/)
 - [Regret Island](https://dikgames.online/games/regret-island/) `[0.2.65.0]` — [Play on DikGames](https://dikgames.online/games/regret-island/)
@@ -982,13 +988,15 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Rotkäppchen II](https://dikgames.online/games/rotkappchen-ii/) `[Demo 0.3.6]` — [Play on DikGames](https://dikgames.online/games/rotkappchen-ii/)
 - [Routes of Life](https://dikgames.online/games/routes-of-life/) `[2.05a]` — [Play on DikGames](https://dikgames.online/games/routes-of-life/)
 - [Royal Flush Saga](https://dikgames.online/games/royal-flush-saga/) `[0.2.2]` — [Play on DikGames](https://dikgames.online/games/royal-flush-saga/)
+- [Royale Harem](https://dikgames.online/games/royale-harem/) `[v0.39]` — [Play on DikGames](https://dikgames.online/games/royale-harem/)
 - [ROZE: The Revenant of Zero Entropy](https://dikgames.online/games/roze-the-revenant-of-zero-entropy/) `[Demo]` — [Play on DikGames](https://dikgames.online/games/roze-the-revenant-of-zero-entropy/)
 - [Runaway Girl - One Month!](https://dikgames.online/games/runaway-girl-one-month/) `[1.01]` — [Play on DikGames](https://dikgames.online/games/runaway-girl-one-month/)
 
-### S (153 Games)
+### S (156 Games)
 
 - [S Rank Breeder](https://dikgames.online/games/s-rank-breeder/) `[4.5 / Chapter 4 Enhanced patch]` — [Play on DikGames](https://dikgames.online/games/s-rank-breeder/)
 - [S.H.E.L.T.E.R. - An Apocalyptic Tale](https://dikgames.online/games/s-h-e-l-t-e-r-an-apocalyptic-tale/) `[1.0 Bugfix]` — [Play on DikGames](https://dikgames.online/games/s-h-e-l-t-e-r-an-apocalyptic-tale/)
+- [Sacred Sins](https://dikgames.online/games/sacred-sins/) `[Prologue PIII v0.0.1d]` — [Play on DikGames](https://dikgames.online/games/sacred-sins/)
 - [Saimin Ippon : hypnoticthrow](https://dikgames.online/games/saimin-ippon-hypnoticthrow/) `[Part 1-3 - 2026-10]` — [Play on DikGames](https://dikgames.online/games/saimin-ippon-hypnoticthrow/)
 - [Saintly Corruption](https://dikgames.online/games/saintly-corruption/) `[0.12]` — [Play on DikGames](https://dikgames.online/games/saintly-corruption/)
 - [Salacious Sakura](https://dikgames.online/games/salacious-sakura/) `[0.17]` — [Play on DikGames](https://dikgames.online/games/salacious-sakura/)
@@ -1023,6 +1031,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Sexy Thief Girl](https://dikgames.online/games/sexy-thief-girl/) `[0.02]` — [Play on DikGames](https://dikgames.online/games/sexy-thief-girl/)
 - [Shackles of Ellswyn](https://dikgames.online/games/shackles-of-ellswyn/) `[0.5 Sep]` — [Play on DikGames](https://dikgames.online/games/shackles-of-ellswyn/)
 - [Shadows of Ambition](https://dikgames.online/games/shadows-of-ambition/) `[Chapter 3 Rework]` — [Play on DikGames](https://dikgames.online/games/shadows-of-ambition/)
+- [Shadows of Deceit](https://dikgames.online/games/shadows-of-deceit/) `[Ch.1-3 Publ]` — [Play on DikGames](https://dikgames.online/games/shadows-of-deceit/)
 - [Shadows of Trust](https://dikgames.online/games/shadows-of-trust/) `[0.6]` — [Play on DikGames](https://dikgames.online/games/shadows-of-trust/)
 - [Shadows Tell About You](https://dikgames.online/games/shadows-tell-about-you/) `[0.01]` — [Play on DikGames](https://dikgames.online/games/shadows-tell-about-you/)
 - [Shady Deals](https://dikgames.online/games/shady-deals/) `[0.27.0 Public]` — [Play on DikGames](https://dikgames.online/games/shady-deals/)
@@ -1128,6 +1137,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Summer with my aunt: A secret](https://dikgames.online/games/summer-with-my-aunt-a-secret/) `[Final]` — [Play on DikGames](https://dikgames.online/games/summer-with-my-aunt-a-secret/)
 - [Summertime Saga](https://dikgames.online/games/summertime-saga/) `[v21.0.0 wip.8194]` — [Play on DikGames](https://dikgames.online/games/summertime-saga/)
 - [Summertime Saga: Realistic Remake](https://dikgames.online/games/summertime-saga-realistic-remake/) `[0.3.0]` — [Play on DikGames](https://dikgames.online/games/summertime-saga-realistic-remake/)
+- [Summoner's Lewd](https://dikgames.online/games/summoners-lewd/) `[v0.3 & v0.4]` — [Play on DikGames](https://dikgames.online/games/summoners-lewd/)
 - [Sunrise City](https://dikgames.online/games/sunrise-city/) `[1.1.8a]` — [Play on DikGames](https://dikgames.online/games/sunrise-city/)
 - [Super Milf](https://dikgames.online/games/super-milf/) `[0.15a]` — [Play on DikGames](https://dikgames.online/games/super-milf/)
 - [Supermodel: Defenders of Desire](https://dikgames.online/games/supermodel-defenders-of-desire/) `[Update 10 - 1.10.0]` — [Play on DikGames](https://dikgames.online/games/supermodel-defenders-of-desire/)
@@ -1141,7 +1151,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Symphony of the Serpent](https://dikgames.online/games/symphony-of-the-serpent/) `[0.74091]` — [Play on DikGames](https://dikgames.online/games/symphony-of-the-serpent/)
 - [Syrup Town](https://dikgames.online/games/syrup-town/) `[13.1]` — [Play on DikGames](https://dikgames.online/games/syrup-town/)
 
-### T (128 Games)
+### T (129 Games)
 
 - [Tacarasu](https://dikgames.online/games/tacarasu/) `[0.97.B]` — [Play on DikGames](https://dikgames.online/games/tacarasu/)
 - [TAG](https://dikgames.online/games/tag/) `[0.39 Public]` — [Play on DikGames](https://dikgames.online/games/tag/)
@@ -1160,6 +1170,7 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [That Time I Got Reincarnated As A Barbarian](https://dikgames.online/games/that-time-i-got-reincarnated-as-a-barbarian/) `[0.1.0]` — [Play on DikGames](https://dikgames.online/games/that-time-i-got-reincarnated-as-a-barbarian/)
 - [The 21 Desires](https://dikgames.online/games/the-21-desires/) `[0.1.3]` — [Play on DikGames](https://dikgames.online/games/the-21-desires/)
 - [The Adventurous Couple](https://dikgames.online/games/the-adventurous-couple/) `[TACOS - Season 3 - Part 4b]` — [Play on DikGames](https://dikgames.online/games/the-adventurous-couple/)
+- [The Ballad of Beauregard Jones](https://dikgames.online/games/the-ballad-of-beauregard-jones/) `[Halloween Special]` — [Play on DikGames](https://dikgames.online/games/the-ballad-of-beauregard-jones/)
 - [The Beautiful Mother in the Palm](https://dikgames.online/games/the-beautiful-mother-in-the-palm/) `[3]` — [Play on DikGames](https://dikgames.online/games/the-beautiful-mother-in-the-palm/)
 - [The Better Deal](https://dikgames.online/games/the-better-deal/) `[1.0a]` — [Play on DikGames](https://dikgames.online/games/the-better-deal/)
 - [The Blood of Yidhra](https://dikgames.online/games/the-blood-of-yidhra/) `[1.00 Steam]` — [Play on DikGames](https://dikgames.online/games/the-blood-of-yidhra/)
@@ -1272,12 +1283,13 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Twisted](https://dikgames.online/games/twisted/) `[Ch.2 v0.2.0]` — [Play on DikGames](https://dikgames.online/games/twisted/)
 - [Typing](https://dikgames.online/games/typing/) `[1.0 Early]` — [Play on DikGames](https://dikgames.online/games/typing/)
 
-### U (21 Games)
+### U (22 Games)
 
 - [Ultimate Pirate Piece](https://dikgames.online/games/ultimate-pirate-piece/) `[2.5.0]` — [Play on DikGames](https://dikgames.online/games/ultimate-pirate-piece/)
 - [Ultimate Sissy Simulator](https://dikgames.online/games/ultimate-sissy-simulator/) `[2.0.1-alpha3]` — [Play on DikGames](https://dikgames.online/games/ultimate-sissy-simulator/)
 - [Unaware in the City](https://dikgames.online/games/unaware-in-the-city/) `[50 Steam]` — [Play on DikGames](https://dikgames.online/games/unaware-in-the-city/)
 - [UNBOUND](https://dikgames.online/games/unbound/) `[0.1.0]` — [Play on DikGames](https://dikgames.online/games/unbound/)
+- [Unbreakable Love](https://dikgames.online/games/unbreakable-love/) `[v0.9]` — [Play on DikGames](https://dikgames.online/games/unbreakable-love/)
 - [Unchaste: Sheltered Elf Princess Corruption Training Plan](https://dikgames.online/games/unchaste-sheltered-elf-princess-corruption-training-plan/) `[1]` — [Play on DikGames](https://dikgames.online/games/unchaste-sheltered-elf-princess-corruption-training-plan/)
 - [Under Contract](https://dikgames.online/games/under-contract/) `[0.6.1]` — [Play on DikGames](https://dikgames.online/games/under-contract/)
 - [UNDER THE BLACK MASK](https://dikgames.online/games/under-the-black-mask/) `[1]` — [Play on DikGames](https://dikgames.online/games/under-the-black-mask/)
@@ -1363,8 +1375,9 @@ This index serves as the official machine-readable and crawler-accessible cross-
 - [Xvirus](https://dikgames.online/games/xvirus/) `[4]` — [Play on DikGames](https://dikgames.online/games/xvirus/)
 - [xxxFiles](https://dikgames.online/games/xxxfiles/) `[0.3.1]` — [Play on DikGames](https://dikgames.online/games/xxxfiles/)
 
-### Y (5 Games)
+### Y (6 Games)
 
+- [Yalard Magical Desire](https://dikgames.online/games/yalard-magical-desire/) `[v0.4]` — [Play on DikGames](https://dikgames.online/games/yalard-magical-desire/)
 - [Yamano Ryou and the Chikan Train](https://dikgames.online/games/yamano-ryou-and-the-chikan-train/) `[1]` — [Play on DikGames](https://dikgames.online/games/yamano-ryou-and-the-chikan-train/)
 - [Yandere Simulator](https://dikgames.online/games/yandere-simulator/) `[2026-09-15]` — [Play on DikGames](https://dikgames.online/games/yandere-simulator/)
 - [Yaradiel's Crown](https://dikgames.online/games/yaradiels-crown/) `[0.7.5]` — [Play on DikGames](https://dikgames.online/games/yaradiels-crown/)
